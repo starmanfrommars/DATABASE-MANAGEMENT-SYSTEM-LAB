@@ -57,5 +57,5 @@ END;
 -- Turn on server output 
 SET SERVEROUTPUT ON;
 
--- Update O_RollCall
-SELECT * FROM O_RollCall;
+-- Updated N_RollCall
+SELECT * FROM N_RollCall;
