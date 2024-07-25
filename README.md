@@ -46,5 +46,3 @@ CUSTOMERS(ID,NAME,AGE,ADDRESS,SALARY)
 Employee(E_id, E_name, Age, Salary)
 
 6. Write a PL/SQL block of code using parameterized Cursor, that will merge the data available in the newly created table N_RollCall with the data available in the table O_RollCall. If the data in the first table already exist in the second table then that data should be skipped.
-7. Install an Open Source NoSQL Data base MangoDB & perform basic CRUD(Create, Read,
-Update & Delete) operations. Execute MangoDB basic Queries using CRUD operations. 
