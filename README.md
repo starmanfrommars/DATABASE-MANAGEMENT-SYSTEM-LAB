@@ -1,6 +1,6 @@
 # DATABASE MANAGEMENT SYSTEM
 - Course Code : BCS403
-- Credits : 3
+- Credits : 4
 
 ## Course objectives:
 - To Provide a strong foundation in database concepts, technology, and practice.
